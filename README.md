@@ -26,5 +26,11 @@ My notes on Drupal development
   * [Sample Drupal 8 unit test run](https://www.youtube.com/watch?v=Uc3vI8ztsqU)
 * ...
 
+### Other
 
+* __EntityFieldQuery__
+  * [EntityFieldQuery](https://api.drupal.org/api/drupal/includes!entity.inc/class/EntityFieldQuery/7.x) Drupal.org (Also see field_attach_load)
+  * [Loading Only One Field From An Entity or Node in Drupal 7](https://timonweb.com/posts/loading-only-one-field-from-an-entity-or-node-in-drupal-7/)
+  * [Retrieve a field value without loading the entire node?](https://drupal.stackexchange.com/questions/30904/retrieve-a-field-value-without-loading-the-entire-node)
+* ...
 
